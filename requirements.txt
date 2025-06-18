@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+opencv-python
+tensorflow==2.10.0
+Pillow
+scikit-learn
+keras==2.10.0
